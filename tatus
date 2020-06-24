@@ -1,0 +1,29 @@
+[33mcommit 0ae0b29efcfae7ab2e00ffda80d83a9da9386191[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Michel Lima <michellima66@gmail.com>
+Date:   Wed Jun 24 01:50:59 2020 -0300
+
+    Configuração do banco de dados
+
+[33mcommit 42f066a873d1ac426b0a6b4c3744ead99d7efd48[m
+Author: Michel Lima <michellima66@gmail.com>
+Date:   Wed Jun 24 01:44:07 2020 -0300
+
+    Configuração do banco de dados
+
+[33mcommit bbf0c9d3cdb4b0547f89e6bcd4e4eaa6085e49a9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Michel Lima <michellima66@gmail.com>
+Date:   Wed Jun 24 00:32:16 2020 -0300
+
+    Ajustes feitos na classe
+
+[33mcommit b06d8afda2bf3509b3cd8695a62480715b34a753[m
+Author: Michel Lima <michellima66@gmail.com>
+Date:   Tue Jun 23 23:50:48 2020 -0300
+
+    Criar classe contato
+
+[33mcommit 1e4f6d1466ebcaef74fdacc9d95a3ffa2bc96859[m
+Author: Michel Lima <michellima66@gmail.com>
+Date:   Tue Jun 23 23:20:31 2020 -0300
+
+    Criar o projeto
